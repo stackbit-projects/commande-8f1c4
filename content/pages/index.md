@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: We unleash the creative minds of the universe.
+    title: "Licensing made simple!! On a mission to\_ unleash the creative minds of the universe."
     content: >
       We streamline artist representation, so you can focus on that what you do
       best!
