@@ -5,10 +5,9 @@ sections:
   - type: hero_section
     section_id: hero
     title: We unleash the creative minds of the universe.
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
+    content: >
+      We streamline artist representation, so you can focus on that what you do
+      best!
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
